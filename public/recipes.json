@@ -1,0 +1,92 @@
+ [
+      {
+        "recipe_image": "https://i.ibb.co.com/C5JMp1p/stir-fry-chicken-sweet-peppers-green-beans.jpg ",
+        "recipe_id": "1",
+        "recipe_name": "Chicken Stir Fry",
+        "short_description": "A quick and easy chicken stir fry with vegetables and soy sauce.",
+        "ingredients": [
+          "550 g chicken",
+          "120 ml soy sauce",
+          "200 g bell peppers",
+          "150 g carrots",
+          "100 g broccoli"
+        ],
+        "preparing_time": 25,
+        "calories": 350
+      },
+      {
+        "recipe_image": "https://i.ibb.co.com/Fzvts58/fettucine-white-cream-sauce-with-shrimp-mushroom.jpg",
+        "recipe_id": "2",
+        "recipe_name": "Creamy Pasta Alfredo",
+        "short_description": "A rich and creamy pasta Alfredo made with fresh cream and parmesan.",
+        "ingredients": [
+          "300 g pasta",
+          "200 ml heavy cream",
+          "100 g parmesan cheese",
+          "2 cloves garlic",
+          "30 g butter"
+        ],
+        "preparing_time": 30,
+        "calories": 500
+      },
+      {
+        "recipe_image": "https://i.ibb.co.com/rHMcnXv/view-delicious-vegetarian-taco.jpg",
+        "recipe_id": "3",
+        "recipe_name": "Vegetarian Tacos",
+        "short_description": "Delicious vegetarian tacos with beans, corn, and avocado.",
+        "ingredients": [
+          "6 taco shells",
+          "200 g black beans",
+          "150 g corn",
+          "1 avocado",
+          "100 g lettuce"
+        ],
+        "preparing_time": 20,
+        "calories": 300
+      },
+      {
+        "recipe_image": "https://i.ibb.co.com/W5PJt8M/hearty-beef-okra-stew-casserole-wooden-table-top-view-traditional-african-food.jpg",
+        "recipe_id": "4",
+        "recipe_name": "Hearty Beef Stew",
+        "short_description": "A classic beef stew with tender meat and vegetables.",
+        "ingredients": [
+          "600 g beef",
+          "200 g potatoes",
+          "150 g carrots",
+          "1 onion",
+          "500 ml beef broth"
+        ],
+        "preparing_time": 15,
+        "calories": 450
+      },
+      {
+        "recipe_image": "https://i.ibb.co.com/0VLskC3/overhead-shot-soup-with-shrimps-vegetables-leaves-white-bowl.jpg",
+        "recipe_id": "5",
+        "recipe_name": "Shrimp Curry",
+        "short_description": "A spicy and flavorful shrimp curry with coconut milk.",
+        "ingredients": [
+          "400 g shrimp",
+          "200 ml coconut milk",
+          "2 tbsp curry powder",
+          "1 onion",
+          "1 red chili"
+        ],
+        "preparing_time": 35,
+        "calories": 400
+      },
+      {
+        "recipe_image": "https://i.ibb.co.com/Q8c1FbQ/freshly-baked-homemade-chocolate-brownies.jpg",
+        "recipe_id": "6",
+        "recipe_name": "Chocolate Brownies",
+        "short_description": "Rich and fudgy chocolate brownies perfect for dessert.",
+        "ingredients": [
+          "200 g dark chocolate",
+          "150 g butter",
+          "200 g sugar",
+          "3 eggs",
+          "100 g flour"
+        ],
+        "preparing_time": 40,
+        "calories": 450
+      }
+    ]

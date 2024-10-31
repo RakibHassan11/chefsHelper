@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 
+// eslint-disable-next-line react/prop-types
 const Recipes = ({addRecipeToQ}) => {
     const [recipes, setRecipes] = useState([])
     useEffect(() => {

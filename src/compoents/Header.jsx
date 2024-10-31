@@ -1,3 +1,4 @@
+// eslint-disable-next-line no-unused-vars
 import React from 'react';
 
 const Header = () => {
@@ -12,7 +13,7 @@ const Header = () => {
                 <div className="flex items-center justify-around">   
                     <div className="flex gap-2">
                       <i className="fa-solid fa-bars text-2xl lg:hidden"></i>
-                    <a href=""><h2 className="text-common_heading_color text-2xl lg:text-4xl font-extrabold">Peddy</h2></a>
+                    <a href=""><h2 className="text-common_heading_color text-2xl lg:text-4xl font-extrabold">Chef's Helper</h2></a>
                     </div>
                 </div>
             </div>
